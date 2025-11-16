@@ -95,6 +95,3 @@ Located in sample_output/sample_document.json:
 }
 
 
-📝 License
-
-MIT License
